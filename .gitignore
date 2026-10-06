@@ -1,0 +1,19 @@
+# ===== 个人配置（不提交）=====
+config.json
+
+# ===== 编译产物 =====
+*.exe
+*.pdb
+*.obj
+
+# ===== 验证与临时文件 =====
+verify_shots/
+_old_multi_src/
+定时关机助手_分发版/
+定时关机助手.zip
+
+# ===== 系统临时文件 =====
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
