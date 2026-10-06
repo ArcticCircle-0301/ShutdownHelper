@@ -20,7 +20,7 @@
 
 ## 快速开始
 
-1. 前往 [Releases](../../releases/latest) 下载 `定时关机助手_分发版.zip`（或直接使用本仓库中打包的同名文件）
+1. 直接下载仓库内最新成品 [`latest/ShutdownHelper-latest.zip`](latest/ShutdownHelper-latest.zip)（仓库内始终是最新版，更新时直接覆盖）；也可在 [Releases](../../releases) 下载正式发布版本
 2. 解压后双击 `ShutdownHelper.exe`
 3. 在左侧选择计划，右侧修改时间、星期/日期、等待秒数
 4. 点 **「应用修改」** 或 **「安装全部计划」** 即可
